@@ -9,21 +9,22 @@
         "payment_method": "payme.png",
         "where_eat": "home.png",
         "ordered_time": "15:22",
+        "completed": false,
         "comment": [],
         "orders": [
           {
             "count": 3,
-            "product": "Pepsi 0.5",
+            "product": "Пепси 0,5",
             "additions": []
           },
           {
             "count": 1,
-            "product": "Gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "product": "Гамбургер",
+            "additions": ["С сыром", "Без лука"]
           },
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           }
         ]
@@ -34,21 +35,22 @@
         "payment_method": "apelsin.png",
         "where_eat": "home.png",
         "ordered_time": "18:20",
+        "completed": false,
         "comment": [],
         "orders": [
           {
             "count": 3,
-            "product": "Pepsi 0.5",
+            "product": "Пепси 0,5",
             "additions": []
           },
           {
             "count": 1,
-            "product": "Gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "product": "Гамбургер",
+            "additions": ["С сыром", "Без лука"]
           },
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           }
         ]
@@ -59,21 +61,22 @@
         "payment_method": "card.png",
         "where_eat": "home.png",
         "ordered_time": "18:20",
+        "completed": false,
         "comment": [],
         "orders": [
           {
             "count": 3,
-            "product": "Pepsi 0.5",
+            "product": "Пепси 0,5",
             "additions": []
           },
           {
             "count": 1,
-            "product": "Gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "product": "Гамбургер",
+            "additions": ["С сыром", "Без лука"]
           },
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           }
         ]
@@ -84,27 +87,28 @@
         "payment_method": "cash.png",
         "where_eat": "walk.png",
         "ordered_time": "18:20",
+        "completed": false,
         "comment": [],
         "orders": [
           {
             "count": 1,
             "product": "Big Gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "additions": ["С сыром", "Без лука"]
           },
           {
             "count": 4,
-            "product": "Pepsi 0.5",
+            "product": "Пепси 0,5",
             "additions": []
           },
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           },
           {
             "count": 1,
-            "product": "Double burger",
-            "additions": ["S Sirom", "Bez luka"]
+            "product": "Дабл Бургер",
+            "additions": ["С сыром", "Без лука"]
           }
         ]
       },
@@ -114,21 +118,22 @@
         "payment_method": "click.png",
         "where_eat": "home.png",
         "ordered_time": "08:00",
+        "completed": false,
         "comment": [],
         "orders": [
           {
             "count": 3,
-            "product": "Pepsi 0.5",
+            "product": "Пепси 0,5",
             "additions": []
           },
           {
             "count": 1,
             "product": "Gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "additions": ["С сыром", "Без лука"]
           },
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           }
         ]
@@ -141,16 +146,17 @@
     "items": [
       {
         "order_id": 320648,
-        "cost": 28570,
+        "cost": 78570,
         "payment_method": "card.png",
         "where_eat": "home.png",
         "ordered_time": "15:22",
+        "completed": false,
         "comment": ["one", "two", "three"],
         "orders": [
           {
             "count": 1,
             "product": "Gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "additions": ["С сыром", "Без лука"]
           }
         ]
       },
@@ -160,21 +166,22 @@
         "payment_method": "card.png",
         "where_eat": "home.png",
         "ordered_time": "18:10",
+        "completed": false,
         "comment": [],
         "orders": [
           {
             "count": 1,
             "product": "Big gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "additions": ["С сыром", "Без лука"]
           },
           {
             "count": 4,
-            "product": "Pepsi 0.5",
+            "product": "Пепси 0,5",
             "additions": []
           },
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           }
         ]
@@ -185,12 +192,13 @@
         "payment_method": "card.png",
         "where_eat": "car.png",
         "ordered_time": "17:44",
+        "completed": false,
         "comment": [],
         "orders": [
           {
             "count": 1,
             "product": "Gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "additions": ["С сыром", "Без лука"]
           }
         ]
       }
@@ -211,7 +219,7 @@
         "orders": [
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           }
         ]
@@ -228,22 +236,22 @@
           {
             "count": 1,
             "product": "Big gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "additions": ["С сыром", "Без лука"]
           },
           {
             "count": 4,
-            "product": "Pepsi 0.5",
+            "product": "Пепси 0,5",
             "additions": []
           },
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           },
           {
             "count": 1,
-            "product": "Double Burger",
-            "additions": ["S Sirom", "Bez luka"]
+            "product": "Дабл Бургер",
+            "additions": ["С сыром", "Без лука"]
           }
         ]
       },
@@ -258,7 +266,7 @@
         "orders": [
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           }
         ]
@@ -274,7 +282,7 @@
         "orders": [
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           }
         ]
@@ -291,27 +299,28 @@
         "payment_method": "walk.png",
         "where_eat": "home.png",
         "ordered_time": "18:15",
+        "completed": false,
         "comment": [],
         "orders": [
           {
             "count": 1,
             "product": "Big gamburger",
-            "additions": ["S Sirom", "Bez luka"]
+            "additions": ["С сыром", "Без лука"]
           },
           {
             "count": 4,
-            "product": "Pepsi 0.5",
+            "product": "Пепси 0,5",
             "additions": []
           },
           {
             "count": 2,
-            "product": "Lavash myasnaya standart ostriy",
+            "product": "Лаваш мясной Standart острый",
             "additions": []
           },
           {
             "count": 1,
-            "product": "Double Burger",
-            "additions": ["S Sirom", "Bez luka"]
+            "product": "Дабл Бургер",
+            "additions": ["С сыром", "Без лука"]
           }
         ]
       }

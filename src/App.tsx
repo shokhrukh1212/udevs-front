@@ -1,15 +1,22 @@
+import { useState } from "react";
 import "./App.css";
-import Header from "./components/Header";
 import Divider from "@mui/material/Divider";
-import Orders from "components/Orders";
+import Header from "components/Header";
+import OrdersWrapper from "components/OrdersWrapper";
+import OrderContext from "context/OrderContext";
+import ordersData from "./local-json/data.json";
+import { OrdersProps } from "types/common";
 
 function App() {
+  const [orders, setOrders] = useState<OrdersProps[]>(ordersData);
+  const [orderId, setOrderId] = useState<string | null>(null);
+
   return (
-    <div>
+    <OrderContext.Provider value={{ orders, setOrders, orderId, setOrderId }}>
       <Header />
       <Divider />
-      <Orders />
-    </div>
+      <OrdersWrapper />
+    </OrderContext.Provider>
   );
 }
 
